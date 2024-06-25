@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "jobportal",
+    "slug": "jobportal",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "af140423-e91c-4998-9cba-50dba9d14635"
+      }
+    }
+  },
+  "name": "jobportal"
+}
